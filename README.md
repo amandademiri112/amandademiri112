@@ -1,14 +1,14 @@
 # Hello, I'm Amanda 
 I'm an aspiring Junior Data Analyst with a passion for turning data into meaningful insights and practical solutions. I'm currently building my portfolio while developing my skills in Python, SQL, Excel, Power BI and Tableau. I'm always excited to learn new technologies and take on projects that challenge me to think analytically and solve real-world problems.
 
-### Aspiring Junior Data Analyst | Python • SQL • Power BI • Tableau
+## Aspiring Junior Data Analyst | Python • SQL • Power BI • Tableau
 CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a growing portfolio of data analysis projects and a keen interest in business intelligence, data visualisation and data-driven decision making.
 
-### Programming Languages
+## Programming Languages
 - Python
 - SQL
 
-### Data Analysis
+## Data Analysis
 - Data Cleaning & Validation
 - Exploratory Data Analysis (EDA)
 - Data Visualisation
@@ -17,7 +17,7 @@ CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a g
 - Trend Analysis
 - Data Modelling
 
-### Tools & Technologies
+## Tools & Technologies
 - Microsoft Excel
 - Power BI
 - Tableau
@@ -30,11 +30,11 @@ CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a g
 - NumPy
 - Matplotlib
 
-### Contact Links
+## Contact Links
 
 - LinkedIn: [Amanda Demiri](https://www.linkedin.com/in/amanda-demiri-2108a8366/)
 
-### Learning Goals
+## Learning Goals
 
 I'm currently working on:
 
@@ -45,12 +45,12 @@ I'm currently working on:
 - Exploring machine learning and predictive analytics
 - Contributing to open-source projects in the future
 
-#### Featured Projects
+## Featured Projects
 
 I'm currently building my portfolio and will be adding projects here as I complete them.
 
-#### Demo Notebooks & Dashboards
+## Demo Notebooks & Dashboards
 
 These will be added as my portfolio grows.
 
-### Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
+## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
