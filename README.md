@@ -1,7 +1,10 @@
+![Static Badge](https://img.shields.io/badge/Data_Analysis-blue)
+![Static Badge](https://img.shields.io/badge/Business_Analysis-purple)
+![Static Badge](https://img.shields.io/badge/CompTIA_Data%2B-red)
 # Hello, I'm Amanda 
 I'm an aspiring Junior Data Analyst with a passion for turning data into meaningful insights and practical solutions. I'm currently building my portfolio while developing my skills in Python, SQL, Excel, Power BI and Tableau. I'm always excited to learn new technologies and take on projects that challenge me to think analytically and solve real-world problems.
 
-## Aspiring Junior Data Analyst | Python • SQL • Power BI • Tableau
+## Aspiring Junior Data Analyst | Python • SQL • Power BI • Tableau • Excel
 CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a growing portfolio of data analysis projects and a keen interest in business intelligence, data visualisation and data-driven decision making.
 
 ## Programming Languages
@@ -45,12 +48,9 @@ I'm currently working on:
 - Exploring machine learning and predictive analytics
 - Contributing to open-source projects in the future
 
-## Featured Projects
-
-I'm currently building my portfolio and will be adding projects here as I complete them.
-
-## Demo Notebooks & Dashboards
-
-These will be added as my portfolio grows.
+## Projects
+#### Excel Coffee Sales Dashboard
+An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisation, and dashboard creation using a Coffee Sales dataset.
+[View Project](https://github.com/amandademiri112/Excel_Coffee_Sales)
 
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
