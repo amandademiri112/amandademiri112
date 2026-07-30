@@ -25,7 +25,7 @@ CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a g
 - Power BI
 - Tableau
 - MySQL
-- Microsoft SQL Server Management Studio (SSMS)
+- Microsoft SQL Server Management Studio
 - Visual Studio Code
 - Jupyter Notebook
 - Git & GitHub
