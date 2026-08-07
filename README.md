@@ -56,6 +56,7 @@ An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisatio
 
 #### Python GPU Sales
 Python project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation using GPU sales data.
+[View Project](https://github.com/amandademiri112/GPU_Sales_Data)
 
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
 
