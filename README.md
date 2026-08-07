@@ -54,8 +54,8 @@ I'm currently working on:
 An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisation, and dashboard creation using a Coffee Sales dataset.
 [View Project](https://github.com/amandademiri112/Excel_Coffee_Sales)
 
-#### Upcoming Project
-An upcoming GPU Sales Data analysis, to be performed on Jupyter Notebook - Python
+#### Python GPU Sales
+Python project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation using GPU sales data.
 
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
 
