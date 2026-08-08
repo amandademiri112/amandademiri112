@@ -6,7 +6,8 @@
 
 I'm an aspiring Junior Data Analyst with a passion for analysing data so that it can be used to solve real-world problems.  
 I'm currently building a portfolio to present my abilities whilst also continuously developing my skills.  
-I'm always excited to learn new technologies and take on projects that challenge me to think analytically and solve real-world problems.
+I'm always excited to learn new technologies and take on projects that challenge me to think analytically and solve real-world problems.  
+Currently looking for work in an Analyst position.
 
 ## Aspiring Junior Data Analyst | Python • SQL • Power BI • Tableau • Excel
 
