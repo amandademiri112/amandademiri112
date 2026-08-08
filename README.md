@@ -36,7 +36,7 @@ Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn.
 ![Static Badge](https://img.shields.io/badge/SQL-blue)  
 MySQL, SSMS, PostgreSQL, SQLite, SQL querying.  
 ![Static Badge](https://img.shields.io/badge/Excel-green)  
-Power Query, Power Pivot,Pivot Tables, XLOOKUP, charts, data validation.  
+Power Query, Power Pivot, Pivot Tables, XLOOKUP, Charts, Data Validation.  
 ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
   
 ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
@@ -54,17 +54,21 @@ Excel, Word, PowerPoint, Outlook, Google Workspace, Microsoft Teams.
 
 - LinkedIn: [Amanda Demiri](https://www.linkedin.com/in/amanda-demiri-2108a8366/)
 
-## Learning Goals
+## Goals and Plans
 
-I'm currently working on:
-
-- Building a strong portfolio of real-world data projects
-- Strengthening my Python and SQL skills
-- Creating interactive dashboards with Power BI and Tableau
-- Learning Git and GitHub best practices
-- Exploring machine learning and predictive analytics
+My current goals are:  
+- Building a strong portfolio of real-world data projects  
+- Strengthening my Python and SQL skills  
+- Creating interactive dashboards with Power BI and Tableau  
+- Learning Git and GitHub best practices  
+- Exploring machine learning and predictive analytics  
 - Contributing to open-source projects in the future
-
+   
+My current plans are:  
+- Create projects that show my proficiency in each data analysis tool I can use  
+- Use a wide range of data analysis tools in a single project
+- Add-on to previously completed projects with dashboard tools (E.g. Tableau and Power BI) to further present the datasets  
+  
 ## Featured Projects  
 
 **Coffee Sales Dashboard**
