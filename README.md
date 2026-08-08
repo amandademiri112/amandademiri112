@@ -18,13 +18,13 @@ CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a g
   
 ![Static Badge](https://img.shields.io/badge/Data-teal)  
 Data analysis, data interpretation, data cleaning, data validation and data transformation.  
-![Static Badge](https://img.shields.io/badge/Analysis-lightblue)  
+![Static Badge](https://img.shields.io/badge/Analysis-lightseagreen)  
 Exploratory data analysis (EDA), trend analysis, KPI monitoring and performance reporting.  
-![Static Badge](https://img.shields.io/badge/Visualisation-turquoise)  
+![Static Badge](https://img.shields.io/badge/Visualisation-teal)  
 Data visualisation, dashboard development and insight generation.  
 ![Static Badge](https://img.shields.io/badge/Statistics-lightseagreen)  
 Statistical analysis fundamentals, data quality checks and analytical problem-solving.  
-![Static Badge](https://img.shields.io/badge/Reporting-aquamarine)  
+![Static Badge](https://img.shields.io/badge/Reporting-teal)  
 Reporting automation principles and business intelligence (BI) concepts.  
 
 -----
