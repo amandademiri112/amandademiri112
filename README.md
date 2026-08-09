@@ -54,7 +54,8 @@ Excel, Word, PowerPoint, Outlook, Google Workspace, Microsoft Teams.
 ## Personal Links
 
 - [LinkedIn](https://www.linkedin.com/in/amanda-demiri-2108a8366/)  
-- [Credly](https://www.credly.com/users/amanda-demiri/edit/badges/credly)  
+- [Credly](https://www.credly.com/users/amanda-demiri/edit/badges/credly)
+- [Kaggle](https://www.kaggle.com/amandade)
 
 ## Goals and Plans
 
