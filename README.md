@@ -51,9 +51,10 @@ Power Query, Power Pivot, Pivot Tables, XLOOKUP, Charts, Data Validation.
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Office%20365-orangered)  
 Excel, Word, PowerPoint, Outlook, Google Workspace, Microsoft Teams.  
 
-## Contact Links
+## Personal Links
 
-- LinkedIn: [Amanda Demiri](https://www.linkedin.com/in/amanda-demiri-2108a8366/)
+- [LinkedIn](https://www.linkedin.com/in/amanda-demiri-2108a8366/)  
+- [Credly](https://www.credly.com/users/amanda-demiri/edit/badges/credly)  
 
 ## Goals and Plans
 
