@@ -90,7 +90,8 @@ Python project demonstrating: data cleaning, exploratory data analysis, statisti
 
 **Upcoming Project**
 ![Static Badge](https://img.shields.io/badge/SQL-blue)  
-SQL project using an E-Commerce dataset.
+SQL project using an E-Commerce dataset.  
+[View Project](https://github.com/amandademiri112/E-Commerce_Dataset)
 
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
 
