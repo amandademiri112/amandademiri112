@@ -88,11 +88,17 @@ Python project demonstrating: data cleaning, exploratory data analysis, statisti
 
 -----
 
-**Upcoming Project**
-![Static Badge](https://img.shields.io/badge/SQL-blue)  
-SQL project using an E-Commerce dataset.  
+**Brazilian E-Commerce Analysis**
+![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Python-darkgreen)  
+SQL project that demonstrates exploratory data analysis using Brazilian E-Commerce data.  
 [View Project](https://github.com/amandademiri112/E-Commerce_Dataset)
 
+-----
+
+**Current project**
+![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
+Continue my **GPU Sales Analysis** and **Brazilian E-Commerce Analysis** projects by using Tableau or Power BI to further demonstrate the datasets, as well as to demonstrate my abilities in both tools.  
+  
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
 
 ![Static Badge](https://img.shields.io/badge/Thank_you!-white)
