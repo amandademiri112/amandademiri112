@@ -43,6 +43,7 @@ Power Query, Power Pivot, Pivot Tables, XLOOKUP, Charts, Data Validation.
 ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
   
 ![Static Badge](https://img.shields.io/badge/GitHub-Git-orange)  
+Presentation, Presenting Analytical Findings.  
 
 -----
   
