@@ -15,42 +15,36 @@ CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a g
 
 ## Key Skills  
   
-#### Data Analysis & Reporting 
+**Data Analysis & Reporting**  
   
-![Static Badge](https://img.shields.io/badge/Data-teal)  
-Data analysis, data interpretation, data cleaning, data validation and data transformation.  
-![Static Badge](https://img.shields.io/badge/Analysis-lightseagreen)  
-Exploratory data analysis (EDA), trend analysis, KPI monitoring and performance reporting.  
-![Static Badge](https://img.shields.io/badge/Visualisation-teal)  
-Data visualisation, dashboard development and insight generation.  
-![Static Badge](https://img.shields.io/badge/Statistics-lightseagreen)  
-Statistical analysis fundamentals, data quality checks and analytical problem-solving.  
-![Static Badge](https://img.shields.io/badge/Reporting-teal)  
-Reporting automation principles and business intelligence (BI) concepts.  
+| ![Static Badge](https://img.shields.io/badge/Data-teal) | ![Static Badge](https://img.shields.io/badge/Analysis-lightseagreen) | ![Static Badge](https://img.shields.io/badge/Visualisation-teal) | ![Static Badge](https://img.shields.io/badge/Statistics-lightseagreen) | ![Static Badge](https://img.shields.io/badge/Reporting-teal) |
+|---|---|---|---|---|
+| Data analysis | Exploratory data analysis | Data visualisation | Statistical analysis fundamentals | Reporting automation principles |
+| Data interpretation | Trend analysis | Dashboard development | Data quality checks | Business intelligence concepts |
+| Data cleaning | KPI monitoring | Insight generation | Analytical problem-solving | |
+| Data validation | Performance reporting | | | |
+| Data transformation | | | | |
 
------
-  
-#### Data Analysis Tools and Technologies  
-  
-![Static Badge](https://img.shields.io/badge/Python-darkgreen)  
-Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn.  
-![Static Badge](https://img.shields.io/badge/SQL-blue)  
-MySQL, SSMS, PostgreSQL, SQLite, SQL querying.  
-![Static Badge](https://img.shields.io/badge/Excel-green)  
-Power Query, Power Pivot, Pivot Tables, XLOOKUP, Charts, Data Validation.  
-![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
-  
-![Static Badge](https://img.shields.io/badge/Tableau-teal)  
-  
-![Static Badge](https://img.shields.io/badge/GitHub-Git-orange)  
-Presentation, Presenting Analytical Findings.  
+**Tools & Technologies**
 
------
-  
-#### Other  
-  
-![Static Badge](https://img.shields.io/badge/Microsoft%20Office%20365-orangered)  
-Excel, Word, PowerPoint, Outlook, Google Workspace, Microsoft Teams.  
+| ![Static Badge](https://img.shields.io/badge/Python-darkgreen) | ![Static Badge](https://img.shields.io/badge/SQL-blue) | ![Static Badge](https://img.shields.io/badge/Excel-green) | ![Static Badge](https://img.shields.io/badge/Power%20BI-gold) | ![Static Badge](https://img.shields.io/badge/Tableau-teal) | ![Static Badge](https://img.shields.io/badge/GitHub-Git-orange) |
+|---|---|---|---|---|---|
+| Jupyter Notebook | MySQL | Power Query | | | Presentation |
+| Pandas | SSMS | Power Pivot | | | Presenting analytical findings |
+| NumPy | PostgreSQL | Pivot Tables | | | |
+| Matplotlib | SQLite | XLOOKUP | | |
+| Seaborn | SQL querying | INDEX & MATCH | | | |
+
+**Other**
+
+| ![Static Badge](https://img.shields.io/badge/Microsoft%20Office%20365-orangered) |
+|---|
+| Excel |
+| Word |
+| PowerPoint |
+| Outlook |
+| Google Workspace |
+| Microsoft Teams |  
 
 ## Personal Links
 
@@ -84,8 +78,8 @@ An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisatio
 -----
 
 **GPU Sales Analysis**
-![Static Badge](https://img.shields.io/badge/Python-darkgreen)  
-Python project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation, using a GPU Sales dataset.  
+![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
+Python and Tableau project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation, using a GPU Sales dataset.  
 [View Project](https://github.com/amandademiri112/GPU_Sales_Data)
 
 -----
@@ -98,8 +92,8 @@ SQL project that demonstrates exploratory data analysis using Brazilian E-Commer
 -----
 
 **Current project**
-![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
-Continue my **GPU Sales Analysis** and **Brazilian E-Commerce Analysis** projects by using Tableau or Power BI to further demonstrate the datasets, as well as to demonstrate my abilities in both tools.  
+![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
+Continue my **Brazilian E-Commerce Analysis** project by using Power BI to visualise the data and present findings, as well as show-case my abilities in Power BI.
   
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
 
