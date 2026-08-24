@@ -29,7 +29,7 @@ CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a g
 
 | ![Static Badge](https://img.shields.io/badge/Python-darkgreen) | ![Static Badge](https://img.shields.io/badge/SQL-blue) | ![Static Badge](https://img.shields.io/badge/Excel-green) | ![Static Badge](https://img.shields.io/badge/Power%20BI-gold) | ![Static Badge](https://img.shields.io/badge/Tableau-teal) | ![Static Badge](https://img.shields.io/badge/GitHub-Git-orange) |
 |---|---|---|---|---|---|
-| Jupyter Notebook | MySQL | Power Query | | | Presentation |
+| Jupyter Notebook | MySQL | Power Query | Data visualisation | Data visualisation | Presentation |
 | Pandas | SSMS | Power Pivot | | | Presenting analytical findings |
 | NumPy | PostgreSQL | Pivot Tables | | | |
 | Matplotlib | SQLite | XLOOKUP | | |
