@@ -93,7 +93,7 @@ SQL project that demonstrates exploratory data analysis using Brazilian E-Commer
 
 **Current project**
 ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
-Continue my **Brazilian E-Commerce Analysis** project by using Power BI to visualise the data and present findings, as well as show-case my abilities in Power BI.
+Power BI project to showcase my abilities with the tool.
   
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
 
