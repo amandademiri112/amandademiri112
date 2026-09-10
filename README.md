@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Data_Analysis-blue)
 ![Static Badge](https://img.shields.io/badge/Business_Analysis-purple)
-![Static Badge](https://img.shields.io/badge/CompTIA_Data%2B-red)
+![Static Badge](https://img.shields.io/badge/CompTIA_Data%2B-red)  
 
 # Hello, I'm Amanda 
 
