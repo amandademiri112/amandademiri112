@@ -93,7 +93,7 @@ SQL project that demonstrates exploratory data analysis using Brazilian E-Commer
 
 **Airline Flights Analysis**
 ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
-Power BI project demonstrating my abilities with creating dashboards, using DAX, calculated fields, KPI's, and data visualisation.
+Power BI project demonstrating my abilities with creating dashboards, using DAX, calculated fields, KPI's, and data visualisation.  
 [View Project](https://github.com/amandademiri112/Airline_Dataset)
   
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
