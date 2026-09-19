@@ -98,9 +98,9 @@ Power BI project demonstrating my abilities with creating dashboards, using DAX,
 
 -----
 
-**Upcoming Project**
-![Static Badge](https://img.shields.io/badge/Excel-green) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold) 
-Excel and Power BI project
+**Upcoming Project**  
+![Static Badge](https://img.shields.io/badge/Excel-green) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)   
+Excel and Power BI project  
   
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
 
