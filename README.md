@@ -68,17 +68,17 @@ My current plans are:
   
 ## Featured Projects  
 
-**Coffee Sales Dashboard**
-![Static Badge](https://img.shields.io/badge/Excel-green)  
-An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisation, and dashboard creation, using a Coffee Sales dataset.  
-[View Project](https://github.com/amandademiri112/Excel_Coffee_Sales)
-
------
-
 **GPU Sales Analysis**
 ![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
 Python and Tableau project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation, using a GPU Sales dataset.  
 [View Project](https://github.com/amandademiri112/GPU_Sales_Data)
+  
+-----
+  
+**Coffee Sales Dashboard**
+![Static Badge](https://img.shields.io/badge/Excel-green)  
+An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisation, and dashboard creation, using a Coffee Sales dataset.  
+[View Project](https://github.com/amandademiri112/Excel_Coffee_Sales)
 
 -----
 
