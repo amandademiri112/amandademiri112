@@ -55,18 +55,16 @@ CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a g
 
 ## Goals and Plans
 
-My current goals are:  
-- Building a strong portfolio of real-world data projects  
+My current goals are:    
 - Strengthening my Python and SQL skills  
-- Creating interactive dashboards with Power BI and Tableau  
+- Creating interactive dashboards 
 - Learning Git and GitHub best practices  
 - Exploring machine learning and predictive analytics  
 - Contributing to open-source projects in the future
    
 My current plans are:  
 - Create projects that show my proficiency in each data analysis tool I can use  
-- Use a wide range of data analysis tools in a single project
-- Add-on to previously completed projects with dashboard tools (E.g. Tableau and Power BI) to further present the datasets  
+- Use a range of data analysis tools in a single project 
   
 ## Featured Projects  
 
