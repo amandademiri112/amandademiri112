@@ -52,6 +52,7 @@ CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a g
 - [Tableau - Portfolio](https://public.tableau.com/app/profile/amanda.demiri/vizzes)
 - [Credly - Certifications](https://www.credly.com/users/amanda-demiri/edit/badges/credly)
 - [Kaggle - Other](https://www.kaggle.com/amandade)
+- [Fiverr - Other](https://www.fiverr.com/users/demia112/seller_dashboard)  
 
 ## Goals and Plans
 
