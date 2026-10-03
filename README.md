@@ -69,24 +69,21 @@ My current plans are:
   
 ## Featured Projects  
 
-**GPU Sales Analysis**
-![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
-Python and Tableau project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation, using a GPU Sales dataset.  
-[View Project](https://github.com/amandademiri112/GPU_Sales_Data)
-  
------
-
-**Airline Flights Analysis**
-![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
-Power BI project demonstrating my abilities with creating dashboards, using DAX, calculated fields, KPI's, and data visualisation.  
-[View Project](https://github.com/amandademiri112/Airline_Dataset)
-
------
+### Coding
 
 **Brazilian E-Commerce Analysis**
 ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Python-darkgreen)  
 SQL project that demonstrates exploratory data analysis using Brazilian E-Commerce data.  
 [View Project](https://github.com/amandademiri112/E-Commerce_Dataset)
+
+-----
+
+### Coding & Dashboard
+
+**GPU Sales Analysis**
+![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
+Python and Tableau project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation, using a GPU Sales dataset.  
+[View Project](https://github.com/amandademiri112/GPU_Sales_Data)
 
 -----
 
@@ -97,8 +94,20 @@ An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisatio
 
 -----
 
-**Upcoming Project**  
+**Employee Performance Dashboard**  
 ![Static Badge](https://img.shields.io/badge/Excel-green) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)   
-Excel and Power BI project  
+A project using an artificial employee dataset to demonstrate and refine my abilities in Excel and Power BI.
+[View Project](https://github.com/amandademiri112/Employee_Dataset)
+
+-----
+
+### Dashboard
+
+**Airline Flights Analysis**
+![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
+Power BI project demonstrating my abilities with creating dashboards, using DAX, calculated fields, KPI's, and data visualisation.  
+[View Project](https://github.com/amandademiri112/Airline_Dataset)
+
+-----
   
 ## Thank you for your time, I'm always looking for opportunities to learn, improve and grow as a data professional.
