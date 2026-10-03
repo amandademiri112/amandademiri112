@@ -87,17 +87,17 @@ Python and Tableau project demonstrating: data cleaning, exploratory data analys
 
 -----
 
+**Employee Performance Dashboard**
+![Static Badge](https://img.shields.io/badge/Excel-green) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)   
+A project using an artificial employee dataset to demonstrate and refine my abilities in Excel and Power BI.  
+[View Project](https://github.com/amandademiri112/Employee_Dataset)  
+
+-----
+
 **Coffee Sales Dashboard**
 ![Static Badge](https://img.shields.io/badge/Excel-green)  
 An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisation, and dashboard creation, using a Coffee Sales dataset.  
 [View Project](https://github.com/amandademiri112/Excel_Coffee_Sales)
-
------
-
-**Employee Performance Dashboard**  
-![Static Badge](https://img.shields.io/badge/Excel-green) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)   
-A project using an artificial employee dataset to demonstrate and refine my abilities in Excel and Power BI.
-[View Project](https://github.com/amandademiri112/Employee_Dataset)
 
 -----
 
