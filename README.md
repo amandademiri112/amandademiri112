@@ -79,7 +79,7 @@ SQL project that demonstrates exploratory data analysis using Brazilian E-Commer
 
 ### Coding & Dashboard
 
-**Pharmacy Reviews Dashboard**  
+**Pharmacy Reviews Dashboard**
 ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)     
 SQL and Power BI project demonstrating: exploratory data analysis, feature engineering, interpreting data, and data visualisation, using a pharmacy customer reviews dataset.   
 [View Project](https://github.com/amandademiri112/Cocooncenter_Pharmacy)  
