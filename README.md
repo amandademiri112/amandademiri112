@@ -85,18 +85,18 @@ SQL and Power BI project demonstrating: exploratory data analysis, feature engin
 [View Project](https://github.com/amandademiri112/Cocooncenter_Pharmacy)  
 
 -----  
-  
-**GPU Sales Analysis**
-![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
-Python and Tableau project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation, using a GPU Sales dataset.  
-[View Project](https://github.com/amandademiri112/GPU_Sales_Data)
-
------
 
 **Employee Performance Dashboard**
 ![Static Badge](https://img.shields.io/badge/Excel-green) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)   
 A project using an artificial employee dataset to demonstrate and refine my abilities in Excel and Power BI.  
 [View Project](https://github.com/amandademiri112/Employee_Dataset)  
+
+-----
+
+**GPU Sales Analysis**
+![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
+Python and Tableau project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation, using a GPU Sales dataset.  
+[View Project](https://github.com/amandademiri112/GPU_Sales_Data)
 
 -----
 
