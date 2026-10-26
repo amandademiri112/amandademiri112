@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Data_Analysis-blue)
+ ![Static Badge](https://img.shields.io/badge/Data_Analysis-blue)
 ![Static Badge](https://img.shields.io/badge/Business_Analysis-purple)
 ![Static Badge](https://img.shields.io/badge/CompTIA_Data%2B-red)  
 
@@ -113,6 +113,15 @@ An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisatio
 ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
 Power BI project demonstrating my abilities with creating dashboards, using DAX, calculated fields, KPI's, and data visualisation.  
 [View Project](https://github.com/amandademiri112/Airline_Dataset)
+
+-----
+
+### Data Entry
+
+**Upcoming Project**
+![Static Badge](https://img.shields.io/badge/Excel-green)  
+Excel project demonstrating my abilities in data entry.  
+[Project will be available to view soon]  
 
 -----
   
