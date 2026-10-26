@@ -1,8 +1,8 @@
- ![Static Badge](https://img.shields.io/badge/Data_Analysis-blue)
+![Static Badge](https://img.shields.io/badge/Data_Analysis-blue)
 ![Static Badge](https://img.shields.io/badge/Business_Analysis-purple)
 ![Static Badge](https://img.shields.io/badge/CompTIA_Data%2B-red)  
 
-# Hello, I'm Amanda 
+# Hello, I'm Amanda  
 
 I'm an aspiring Junior Data Analyst with a passion for analysing data so that it can be used to solve real-world problems.  
 I'm currently building a portfolio to present my abilities whilst also continuously developing my skills.  
@@ -60,7 +60,7 @@ My current goals are:
 - Creating interactive dashboards 
 - Learning Git and GitHub best practices  
 - Exploring machine learning and predictive analytics  
-- Contributing to open-source projects in the future
+- Contributing to open-source projects
    
 My current plans are:  
 - Create projects that show my proficiency in each data analysis tool I can use  
@@ -121,7 +121,7 @@ Power BI project demonstrating my abilities with creating dashboards, using DAX,
 **Upcoming Project**
 ![Static Badge](https://img.shields.io/badge/Excel-green)  
 Excel project demonstrating my abilities in data entry.  
-[Project will be available to view soon]  
+[Project will be available to view soon]()  
 
 -----
   
