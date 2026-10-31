@@ -118,9 +118,9 @@ Power BI project demonstrating my abilities with creating dashboards, using DAX,
 
 ### Data Entry
 
-**Upcoming Project**
-![Static Badge](https://img.shields.io/badge/Excel-green)  
-Excel project demonstrating my abilities in data entry.  
+**Ecommerce Inventory Dataset**
+![Static Badge](https://img.shields.io/badge/Excel-green)   
+Excel project demonstrating my abilities in data cleaning, data entry and data transformation.   
 [View Project](https://github.com/amandademiri112/Ecommerce_Inventory)  
 
 -----
