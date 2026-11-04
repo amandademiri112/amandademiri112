@@ -72,28 +72,28 @@ My current plans are:
 
 **Pharmacy Reviews Dashboard**
 ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)     
-SQL and Power BI project demonstrating: exploratory data analysis, feature engineering, interpreting data, and data visualisation, using a pharmacy customer reviews dataset.   
+SQL and Power BI project demonstrating exploratory data analysis, feature engineering, interpreting data, and data visualisation, using a pharmacy customer reviews dataset.   
 [View Project](https://github.com/amandademiri112/Cocooncenter_Pharmacy)  
 
 -----  
 
 **Employee Performance Dashboard**
 ![Static Badge](https://img.shields.io/badge/Excel-green) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)   
-A project using an artificial employee dataset to demonstrate and refine my abilities in Excel and Power BI.  
+Excel and Power BI project using an artificial employee dataset to demonstrate and refine my abilities to clean, transform, analyse, and visualise data.  
 [View Project](https://github.com/amandademiri112/Employee_Dataset)  
 
 -----
 
 **GPU Sales Analysis**
 ![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Tableau-teal)  
-Python and Tableau project demonstrating: data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation, using a GPU Sales dataset.  
+Python and Tableau project demonstrating data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation, using a GPU Sales dataset.  
 [View Project](https://github.com/amandademiri112/GPU_Sales_Data)
 
 -----
 
 **Coffee Sales Dashboard**
 ![Static Badge](https://img.shields.io/badge/Excel-green)  
-An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisation, and dashboard creation, using a Coffee Sales dataset.  
+An Excel dashboard demonstrating data cleaning, pivot tables, data visualisation, and dashboard creation, using a Coffee Sales dataset.  
 [View Project](https://github.com/amandademiri112/Excel_Coffee_Sales)
 
 -----
