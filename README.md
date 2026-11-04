@@ -68,15 +68,6 @@ My current plans are:
   
 ## Featured Projects  
 
-### Coding
-
-**Brazilian E-Commerce Analysis**
-![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Python-darkgreen)  
-SQL project that demonstrates exploratory data analysis using Brazilian E-Commerce data.  
-[View Project](https://github.com/amandademiri112/E-Commerce_Dataset)
-
------
-
 ### Coding & Dashboard
 
 **Pharmacy Reviews Dashboard**
@@ -113,6 +104,15 @@ An Excel dashboard demonstrating: data cleaning, pivot tables, data visualisatio
 ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)  
 Power BI project demonstrating my abilities with creating dashboards, using DAX, calculated fields, KPI's, and data visualisation.  
 [View Project](https://github.com/amandademiri112/Airline_Dataset)
+
+-----
+
+### Coding
+
+**Brazilian E-Commerce Analysis**
+![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Python-darkgreen)  
+SQL project that demonstrates exploratory data analysis using Brazilian E-Commerce data.  
+[View Project](https://github.com/amandademiri112/E-Commerce_Dataset)
 
 -----
 
