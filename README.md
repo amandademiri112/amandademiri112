@@ -11,7 +11,7 @@ I use independent projects to develop and demonstrate my technical abilities, ex
 
 I'm continuously developing my skills, exploring new technologies, and building a portfolio that reflects my technical knowledge and practical capabilities. I'm currently open to opportunities where I can contribute, learn and further develop professionally.
 
-**Certifications:** CompTIA Data+ • BCS Business Analysis Foundation • Data Foundations Analyst
+**Certifications: CompTIA Data+ • BCS Business Analysis Foundation • Data Foundations Analyst**
 
 ## Key Skills  
   
