@@ -3,15 +3,15 @@
 ![Static Badge](https://img.shields.io/badge/CompTIA_Data%2B-red)  
 
 # Hello, I'm Amanda  
+## Data Analysis • Business Intelligence • Data Management
 
-I'm an aspiring Junior Data Analyst with a passion for analysing data so that it can be used to solve real-world problems.  
-I'm currently building a portfolio to present my abilities whilst also continuously developing my skills.  
-I'm always excited to learn new technologies and take on projects that challenge me to think analytically and solve real-world problems.  
-Currently looking for work in a data position.
+I'm an analytical and detail-oriented individual interested in working with data, understanding patterns and using information to solve practical problems.
 
-## Aspiring Junior Data Analyst | Python • SQL • Power BI • Tableau • Excel
+I use independent projects to develop and demonstrate my technical abilities, explore different analytical approaches and apply what I've learned to real-world scenarios. I value accuracy, structured problem-solving and presenting information in a clear and meaningful way.
 
-CompTIA Data+ certified and BCS Business Analysis Foundation certified, with a growing portfolio of data analysis projects and a keen interest in business intelligence, data visualisation and data-driven decision making.
+I'm continuously developing my skills, exploring new technologies, and building a portfolio that reflects my technical knowledge and practical capabilities. I'm currently open to opportunities where I can contribute, learn and further develop professionally.
+
+**Certifications:** CompTIA Data+ • BCS Business Analysis Foundation • Data Foundations Analyst
 
 ## Key Skills  
   
