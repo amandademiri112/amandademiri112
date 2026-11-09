@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/CompTIA_Data%2B-red)  
 
 # Hello, I'm Amanda  
-## Data Analysis • Business Intelligence • Data Management
+## Junior Data Analysis • Business Intelligence • Data Management
 
 I'm an analytical and detail-oriented individual interested in working with data, understanding patterns and using information to solve practical problems.
 
