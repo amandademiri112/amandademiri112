@@ -114,6 +114,11 @@ Power BI project demonstrating my abilities with creating dashboards, using DAX,
 SQL project that demonstrates exploratory data analysis using Brazilian E-Commerce data.  
 [View Project](https://github.com/amandademiri112/E-Commerce_Dataset)
 
+**Upcoming project**
+![Static Badge](https://img.shields.io/badge/N/A-gray)  
+Maritime dataset analysis
+['View Project' will be available soon](https://github.com/amandademiri112/)
+  
 -----
 
 ### Data Entry
