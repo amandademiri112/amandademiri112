@@ -115,8 +115,8 @@ SQL project that demonstrates exploratory data analysis using Brazilian E-Commer
 [View Project](https://github.com/amandademiri112/E-Commerce_Dataset)
 
 **Upcoming project**
-![Static Badge](https://img.shields.io/badge/N/A-gray)  
-Maritime dataset analysis
+![Static Badge](https://img.shields.io/badge/N/A-lightgray)  
+Maritime dataset analysis  
 ['View Project' will be available soon](https://github.com/amandademiri112/)
   
 -----
