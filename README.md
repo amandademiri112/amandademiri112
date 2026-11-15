@@ -3,7 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/CompTIA_Data%2B-red)  
 
 # Hello, I'm Amanda  
-## Junior Data Analysis • Business Intelligence • Data Management
+
+## Junior Data Analysis • Business Intelligence • Data Management  
 
 I'm an analytical and detail-oriented individual interested in working with data, understanding patterns and using information to solve practical problems.
 
@@ -49,9 +50,7 @@ I'm continuously developing my skills, exploring new technologies, and building 
 ## Personal Links
 
 - [LinkedIn - Profile](https://www.linkedin.com/in/amanda-demiri-2108a8366/)
-- [Tableau - Portfolio](https://public.tableau.com/app/profile/amanda.demiri/vizzes)
 - [Credly - Certifications](https://www.credly.com/users/amanda-demiri/edit/badges/credly)
-- [Kaggle - Other](https://www.kaggle.com/amandade)
 
 ## Goals and Plans
 
@@ -59,12 +58,12 @@ My current goals are:
 - Strengthening my Python and SQL skills  
 - Creating interactive dashboards 
 - Learning Git and GitHub best practices  
-- Exploring machine learning and predictive analytics  
 - Contributing to open-source projects
+- Creating projects for a wide range of related analysis and data jobs
    
 My current plans are:  
 - Create projects that show my proficiency in each data analysis tool I can use  
-- Use a range of data analysis tools in a single project 
+- Create a wide range of analysis and data projects that showcase my abilities in different areas
   
 ## Featured Projects  
 
