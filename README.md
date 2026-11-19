@@ -117,7 +117,7 @@ SQL project that demonstrates exploratory data analysis using Brazilian E-Commer
 
 **Upcoming project**
 ![Static Badge](https://img.shields.io/badge/SQL-blue)  
-Cyberattacks dataset analysis  (Incomplete)  
+Cyberattacks dataset analysis
 [View Project](https://github.com/amandademiri112/Cyberattacks_Dataset)  
   
 -----
